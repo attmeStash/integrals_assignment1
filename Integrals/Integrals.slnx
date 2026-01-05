@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Auto/Auto.vcxproj" Id="6455af5d-10d3-43d6-8488-f7ef1c1af396" />
+  <Project Path="booleans/booleans.vcxproj" Id="61437359-10b1-4f83-8d98-5a28f440200b" />
+  <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
+  <Project Path="floats/floats.vcxproj" Id="5b05d72d-8ec7-4474-a2e9-2f2ace17d6ec" />
+  <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
+  <Project Path="Type Conversion assignment/Type Conversion assignment.vcxproj" Id="9a05da81-1cdf-4b22-ba31-bbf02e39a8af" />
+  <Project Path="TypeConversion1/TypeConversion1.vcxproj" Id="def2fed7-b74f-4437-8e22-af0d4a46a2e9" />
+</Solution>
