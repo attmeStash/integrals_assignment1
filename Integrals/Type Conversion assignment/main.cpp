@@ -13,6 +13,10 @@ int main()
 	bool b = static_cast <bool> (ch);
 	std::cout << b << std::endl;
 
+	char chh = 5;
+	std::cout << static_cast<int>(chh) << std:: endl;
+
+
 	return 0;
 }
 
