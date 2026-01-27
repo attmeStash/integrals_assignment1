@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="arrays/arrays.vcxproj" Id="683a503a-85c4-4f7e-bf31-a1a452a70390" />
   <Project Path="Auto/Auto.vcxproj" Id="6455af5d-10d3-43d6-8488-f7ef1c1af396" />
   <Project Path="booleans/booleans.vcxproj" Id="61437359-10b1-4f83-8d98-5a28f440200b" />
   <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
