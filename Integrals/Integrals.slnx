@@ -12,6 +12,7 @@
   <Project Path="Pointers/Pointers.vcxproj" Id="ac30fdeb-d453-4148-814b-0a6e25a64ba0" />
   <Project Path="pointers_chatgpt_tasks/pointers_chatgpt_tasks.vcxproj" Id="7d9f1970-b0aa-460a-8552-98219d62f7fe" />
   <Project Path="Simple Calculator/Simple Calculator.vcxproj" Id="f989a75a-bb4e-4928-90b0-2b1aa59cfaa6" />
+  <Project Path="Swap/Swap.vcxproj" Id="9827eb14-24bb-4fb0-bfe1-406f7408cd88" />
   <Project Path="Type Conversion assignment/Type Conversion assignment.vcxproj" Id="9a05da81-1cdf-4b22-ba31-bbf02e39a8af" />
   <Project Path="TypeConversion1/TypeConversion1.vcxproj" Id="def2fed7-b74f-4437-8e22-af0d4a46a2e9" />
 </Solution>
