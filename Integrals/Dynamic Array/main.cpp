@@ -36,9 +36,6 @@ int main() {
 		}
 	}
 	
-	
-
-
 	int sizeOfArray = num;
 	int* values = new int[sizeOfArray];
 
@@ -71,10 +68,12 @@ int main() {
 	}
 
 	int average = sum / sizeOfArray;
+
 	std::cout << "The minimum value of the array is " << minValue << std::endl;
 	std::cout << "The maximum value of the array is " << maxValue << std::endl;
 	std::cout << "The average value of the array is " << average << std::endl;
 
+	delete[] values;
 
 	return 0;
 }
