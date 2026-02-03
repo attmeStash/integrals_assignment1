@@ -10,6 +10,7 @@
   <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
   <Project Path="floats/floats.vcxproj" Id="5b05d72d-8ec7-4474-a2e9-2f2ace17d6ec" />
   <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
+  <Project Path="Operators/Operators.vcxproj" Id="fac9bab6-e263-483f-902f-513db309ff3e" />
   <Project Path="Pointers/Pointers.vcxproj" Id="ac30fdeb-d453-4148-814b-0a6e25a64ba0" />
   <Project Path="pointers_chatgpt_tasks/pointers_chatgpt_tasks.vcxproj" Id="7d9f1970-b0aa-460a-8552-98219d62f7fe" />
   <Project Path="shared pointers/shared pointers.vcxproj" Id="58e7b6f8-12be-4f11-bec0-5e1561692139" />

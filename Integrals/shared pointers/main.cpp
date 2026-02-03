@@ -40,5 +40,21 @@ int main()
 
 		wPtr = widget; // weak pointers will not increment the use count
 	}
+
+	//std::unique_ptr<Widget> uPtr = std::unique_ptr<Widget>(new Widget(2));
+	{
+
+
+	}
+
+
+	auto uPtr = std::make_unique<Widget>(Widget(2));
+
+
+
+	//auto uPtr2 = std::move(uPtr); // now allowed
+
+
+
 	return 0;
 }
