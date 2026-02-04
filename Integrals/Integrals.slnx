@@ -3,10 +3,12 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Advanced_Calculator/Advanced_Calculator.vcxproj" Id="a8664cb3-4daf-40ca-bf42-7e21be23f76d" />
   <Project Path="arrays/arrays.vcxproj" Id="683a503a-85c4-4f7e-bf31-a1a452a70390" />
   <Project Path="Auto/Auto.vcxproj" Id="6455af5d-10d3-43d6-8488-f7ef1c1af396" />
   <Project Path="booleans/booleans.vcxproj" Id="61437359-10b1-4f83-8d98-5a28f440200b" />
   <Project Path="Dynamic Array/Dynamic Array.vcxproj" Id="11e78cd0-5396-4bb8-82ce-0d8d764f150b" />
+  <Project Path="Enchanted Calculator/Enchanted Calculator.vcxproj" Id="4f308337-0f66-4250-a2cd-74a1014eb986" />
   <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
   <Project Path="floats/floats.vcxproj" Id="5b05d72d-8ec7-4474-a2e9-2f2ace17d6ec" />
   <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
