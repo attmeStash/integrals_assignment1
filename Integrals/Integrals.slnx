@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Advanced_Calculator/Advanced_Calculator.vcxproj" Id="a8664cb3-4daf-40ca-bf42-7e21be23f76d" />
+  <Project Path="Area calculator/Area calculator.vcxproj" Id="a1e72ea2-8f93-40c9-af39-b1ca61685dc9" />
   <Project Path="arrays/arrays.vcxproj" Id="683a503a-85c4-4f7e-bf31-a1a452a70390" />
   <Project Path="Auto/Auto.vcxproj" Id="6455af5d-10d3-43d6-8488-f7ef1c1af396" />
   <Project Path="Bitwise Operators/Bitwise Operators.vcxproj" Id="1baea41e-4b51-4876-8138-87e0f93dd1ba" />
@@ -13,6 +14,7 @@
   <Project Path="Enchanted Calculator/Enchanted Calculator.vcxproj" Id="4f308337-0f66-4250-a2cd-74a1014eb986" />
   <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
   <Project Path="floats/floats.vcxproj" Id="5b05d72d-8ec7-4474-a2e9-2f2ace17d6ec" />
+  <Project Path="Flow Control/Flow Control.vcxproj" Id="a897168e-c932-40f4-a5c3-3ebe8b2edc8c" />
   <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
   <Project Path="Operators/Operators.vcxproj" Id="fac9bab6-e263-483f-902f-513db309ff3e" />
   <Project Path="Pointers/Pointers.vcxproj" Id="ac30fdeb-d453-4148-814b-0a6e25a64ba0" />
