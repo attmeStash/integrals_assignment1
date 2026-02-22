@@ -119,7 +119,7 @@ void triangle()
 {
 	int base;
 	int height;
-	std::cout << "Input a base" << std::endl;
+	std::cout << "Input a width" << std::endl;
 	std::cin >> base;
 
 	while (std::cin.fail())  //checking for invalid input of the first number
