@@ -1,6 +1,6 @@
 #include <iostream>
 
-uint16_t factorial(uint16_t x)
+uint64_t factorial(uint32_t x)
 {
 
 	
@@ -20,9 +20,9 @@ uint16_t factorial(uint16_t x)
 int main()
 {
 
-	int temp;
+	double temp;
 	std::cin >> temp;
-	while (std::cin.fail() || (temp < 0) || (temp > 65535))  //checking for invalid input of the first number
+	while (std::cin.fail() || (temp < 0) || (temp > 4294967295))  //checking for invalid input of the first number
 	{
 		
 			std::cerr << "Error occured \n" << std::endl;
@@ -33,7 +33,7 @@ int main()
 		std::cout << "Enter a number" << std::endl;
 		std::cin >> temp;
 	}
-	uint16_t x;
+	uint32_t x;
 	x = temp;
 	std::cout << factorial(x) << std::endl;
 
