@@ -16,6 +16,23 @@ uint64_t factorial(uint32_t x)
 
 }
 
+long long Fib(uint32_t n)
+{
+
+    if (n > 1)
+    {
+        return Fib(n - 1) + Fib(n - 2);
+    }
+    else if (n == 0)
+    {
+        return 0;
+    }
+    else
+    {
+        return 1;
+    }
+
+}
 
 int main()
 {
@@ -37,7 +54,7 @@ int main()
 	x = temp;
 	std::cout << factorial(x) << std::endl;
 
-
+	std::cout << Fib(4) << std::endl;
 
 
 }
