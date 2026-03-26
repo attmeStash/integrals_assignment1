@@ -15,6 +15,7 @@
   <Project Path="Enums/Enums.vcxproj" Id="56c7c359-036b-41c5-9318-e6410c494510" />
   <Project Path="factorial/factorial.vcxproj" Id="120abf08-f0fd-4406-8806-0df10335b741" />
   <Project Path="floats/floats.vcxproj" Id="5b05d72d-8ec7-4474-a2e9-2f2ace17d6ec" />
+  <Project Path="Function Templates/Function Templates.vcxproj" Id="24635964-4e2a-4ad6-bed0-28b906791c58" />
   <Project Path="Functions/Functions.vcxproj" Id="24789d01-7d4c-4d4d-944d-8863a37bdbc3" />
   <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
   <Project Path="Operators/Operators.vcxproj" Id="fac9bab6-e263-483f-902f-513db309ff3e" />
