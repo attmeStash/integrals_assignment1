@@ -19,6 +19,7 @@
   <Project Path="Function Templates/Function Templates.vcxproj" Id="24635964-4e2a-4ad6-bed0-28b906791c58" />
   <Project Path="Functions/Functions.vcxproj" Id="24789d01-7d4c-4d4d-944d-8863a37bdbc3" />
   <Project Path="Integrals/Integrals.vcxproj" Id="ee4ed7a1-20ca-4137-93bf-6949e2b7f619" />
+  <Project Path="Lambdas/Lambdas.vcxproj" Id="939a94ce-fa8b-4104-adeb-d483e82a3380" />
   <Project Path="Operators/Operators.vcxproj" Id="fac9bab6-e263-483f-902f-513db309ff3e" />
   <Project Path="Pointers/Pointers.vcxproj" Id="ac30fdeb-d453-4148-814b-0a6e25a64ba0" />
   <Project Path="pointers_chatgpt_tasks/pointers_chatgpt_tasks.vcxproj" Id="7d9f1970-b0aa-460a-8552-98219d62f7fe" />

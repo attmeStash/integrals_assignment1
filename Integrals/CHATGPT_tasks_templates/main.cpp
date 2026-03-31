@@ -2,7 +2,7 @@
 
 
 template <typename T>
-int minValue(T a, T b)
+T minValue(T a, T b)
 {
 	return a < b ? a : b;
 }
@@ -27,7 +27,7 @@ int main()
 		std::cin >> input2;
 
 
-		std::cout << minvalue(input1, input2) << std::endl;
+		std::cout << minValue(input1, input2) << std::endl;
 	}*/
 
 	{
